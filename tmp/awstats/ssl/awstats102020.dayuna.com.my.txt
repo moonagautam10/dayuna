@@ -1,0 +1,297 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202010 will be lost/reset.
+# Last config file used to build this data file was /home2/dayunaco/tmp/awstats/ssl/awstats.dayuna.com.my.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2686                
+POS_VISITOR 6858                
+POS_DAY 7598                
+POS_DOMAIN 3251                
+POS_LOGIN 3551                
+POS_ROBOT 3706                
+POS_WORMS 3838                
+POS_EMAILSENDER 3969                
+POS_EMAILRECEIVER 4112                
+POS_SESSION 7769                
+POS_SIDER 7916                
+POS_FILETYPES 4247                
+POS_DOWNLOADS 4451                
+POS_OS 4499                
+POS_BROWSER 4653                
+POS_SCREENSIZE 4863                
+POS_UNKNOWNREFERER 4937                
+POS_UNKNOWNREFERERBROWSER 5092                
+POS_ORIGIN 5242                
+POS_SEREFERRALS 5376                
+POS_PAGEREFS 5520                
+POS_SEARCHWORDS 6148                
+POS_KEYWORDS 6300                
+POS_MISC 2350                
+POS_ERRORS 6359                
+POS_CLUSTER 3407                
+POS_SIDER_404 6459                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201101023346 1 0 9046747484285
+FirstTime 20201019170855
+LastTime 20201022210551
+LastUpdate 20201101073744 1 0 0 0 0
+TotalVisits 23                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 8 26 241141 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 2 2 0
+5 2 2 76200 5 5 105
+6 3 11 833511 5 5 105
+7 2 2 76200 5 5 105
+8 1 1 38094 3 3 70
+9 3 3 88458 3 3 35
+10 0 0 0 1 1 35
+11 0 0 0 0 0 0
+12 1 1 38094 0 0 0
+13 2 2 39812 2 2 35
+14 1 1 38106 2 2 70
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 3 3 36792 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 6 6 125284 11 11 520
+21 2 2 76200 14 14 365
+22 1 2 382740 10 10 157
+23 1 1 38094 5 5 6684
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 13 30 1079332
+fr 10 11 585918
+cl 4 13 120570
+eu 4 4 152400
+ca 3 3 114294
+gb 2 2 76212
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 13 25052 0 0
+woff 6 136000 0 0
+js 2 148202 0 0
+css 10 1002835 0 0
+env 1 12263 0 0
+html 27 775034 0 0
+svg 2 4798 0 0
+Unknown 2 24542 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+Unknown 7 7
+linux 9 8
+ios_iphone 35 9
+macosx 2 2
+win10 4 4
+macosx12 2 2
+linuxandroid 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+Unknown 7 7
+firefox58.0 11 10
+safari11.0.3 1 1
+safari13.1.2 35 9
+chrome64.0.3282.186 2 2
+edge16 2 2
+chrome59.0.3071.125 2 2
+chrome80.0.3987.149 1 1
+android 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Go-http-client/1.1 20201019203112
+Go-http-client/2.0 20201020090851
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20201019203112
+Go-http-client/2.0 20201020090851
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 26
+From1 0 0
+From2 0 0
+From3 11 29
+From4 0 8
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+https://webmail.dayuna.com.my/cPanel_magic_revision_1600288505/unprotected/stablepoint/fonts/open_sans/open_sans.min.css 6 6
+http://webmail.dayuna.com.my 1 1
+http://webmail.dayuna.com.my:80/.env 1 1
+http://webmail.dayuna.com.my:80/.git/config 1 1
+http://webmail.dayuna.com.my:80/v2/_catalog 1 1
+http://webmail.dayuna.com.my:80 1 1
+https://webmail.dayuna.com.my/cPanel_magic_revision_1600288505/unprotected/stablepoint/style_v2_optimized.css 0 12
+https://webmail.dayuna.com.my 0 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 27 6579
+401 41 1707
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 6
+/.git/config 2 -
+/ 18 -
+/.env 2 -
+/api/v1/pods 2 -
+/v2/_catalog 2 -
+/site/assets/css/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+93.119.227.91 4 4 152400 20201021063517
+69.4.87.74 4 4 152400 20201021070839
+51.255.45.144 4 4 49072 20201019203112
+64.137.94.219 4 13 120571 20201020020517
+181.215.75.252 4 13 120570 20201020020517
+207.148.93.136 3 3 114294 20201021055225
+67.205.165.53 3 3 36790 20201020090851
+62.4.14.198 1 2 382740 20201020082817
+62.210.10.77 1 1 38094 20201020093125
+195.154.62.232 1 1 38106 20201021143349
+62.4.14.206 1 1 1718 20201022133002
+51.15.191.81 1 1 38106 20201022210551
+38.145.97.82 1 9 757311 20201022061257
+195.154.63.222 1 1 38094 20201021133455
+212.83.146.233 1 1 38094 20201021125915
+163.172.70.242 1 1 38106 20201020093554
+54.221.27.173 1 1 12260 20201019173241
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20201019 12 12 276358 8
+20201020 12 30 367693 6
+20201021 9 9 342894 6
+20201022 3 11 797135 3
+20201023 0 1 344646 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 23
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 27 775034 22 20
+/cPanel_magic_revision_1600288505/unprotected/stablepoint/fonts/open_sans/OpenSans-Semibold-webfont.woff 2 45816 0 1
+/cPanel_magic_revision_1600288505/unprotected/stablepoint/fonts/open_sans/OpenSans-Regular-webfont.woff 2 45320 0 0
+/cPanel_magic_revision_1600288505/unprotected/stablepoint/fonts/open_sans/OpenSans-Bold-webfont.woff 2 44864 0 1
+/.git/config 1 12275 0 0
+/.env 1 12263 1 0
+/v2/_catalog 1 12267 0 1
+END_SIDER

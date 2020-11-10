@@ -1,0 +1,339 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202011 will be lost/reset.
+# Last config file used to build this data file was /home2/dayunaco/tmp/awstats/awstats.dayuna.com.my.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2694                
+POS_VISITOR 6922                
+POS_DAY 7879                
+POS_DOMAIN 3320                
+POS_LOGIN 3615                
+POS_ROBOT 3770                
+POS_WORMS 3932                
+POS_EMAILSENDER 4063                
+POS_EMAILRECEIVER 4206                
+POS_SESSION 8148                
+POS_SIDER 8347                
+POS_FILETYPES 4341                
+POS_DOWNLOADS 4581                
+POS_OS 4629                
+POS_BROWSER 4806                
+POS_SCREENSIZE 5040                
+POS_UNKNOWNREFERER 5114                
+POS_UNKNOWNREFERERBROWSER 5239                
+POS_ORIGIN 5359                
+POS_SEREFERRALS 5497                
+POS_PAGEREFS 5641                
+POS_SEARCHWORDS 5789                
+POS_KEYWORDS 5941                
+POS_MISC 2357                
+POS_ERRORS 6000                
+POS_CLUSTER 3471                
+POS_SIDER_404 6166                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201109121158 715 165335 8794537928484
+FirstTime 20201101072232
+LastTime 20201109121158
+LastUpdate 20201109121957 678 0 678 0 0
+TotalVisits 23                  
+TotalUnique 20                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 10 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 3 51 3442404 0 1 6579
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 1 1 33879 0 1 0
+6 0 0 0 0 0 0
+7 1 1 137023 0 0 0
+8 44 158 18722779 31 45 703587
+9 6 16 4055765 2 3 748
+10 9 23 560892 0 3 19737
+11 36 85 2416059 11 15 573872
+12 116 312 19359070 35 46 1205405
+13 4 4 274046 0 0 0
+14 7 58 3843465 0 5 32895
+15 3 3 268500 0 1 0
+16 16 70 4726893 2 17 639493
+17 2 8 642979 0 1 0
+18 12 23 1189453 10 11 4154783
+19 1 1 1709 0 1 24
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+my 191 592 41709035
+mn 35 116 11102468
+np 32 101 6677914
+us 2 4 151620
+in 1 1 33879
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+unknown 1 24 20201104191951 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 156 9896037 0 0
+woff2 11 848760 0 0
+jpg 221 28289718 0 0
+ttf 4 754032 0 0
+Unknown 207 9278465 0 0
+js 139 9677170 0 0
+html 29 38551 0 0
+woff 10 585560 0 0
+png 37 306623 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx10 1 1
+linuxandroid 132 19
+linux 81 81
+macosx 218 68
+win8.1 279 60
+ios_iphone 16 6
+win7 84 23
+Unknown 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+chrome79.0.3945.136 23 9
+safari14.0 16 6
+firefox47.0 81 81
+firefox82.0 335 81
+firefox59.0 1 1
+chrome40.0.2214.115 3 1
+Unknown 3 3
+chrome86.0.4240.183 243 69
+chrome71.0.3578.141 109 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WhatsApp/2.20.120.21_i 20201109085715
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WhatsApp/2.20.120.21_i 20201109085715
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 136 138
+From1 0 0
+From2 0 0
+From3 0 0
+From4 125 676
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+419 2 13170
+302 54 15426
+405 7 2229586
+301 2 470
+404 53 335529
+500 7 4147162
+206 8 592744
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 14
+/ho 2 -
+/orde 2 -
+/shop/assets/images/favicon.png 8 http://dayuna.com.my/shop/knit-like1
+/shops/product/assets/images/favicon.png 7 http://dayuna.com.my/shops/product/featured
+/assets/images/favicon.png 17 http://dayuna.com.my/v1
+/admin/logi 1 -
+/v1/admin/login 2 -
+/admin/ 4 -
+/v1/login/admin 1 -
+/shop/catagory/assets/images/favicon.png 2 http://dayuna.com.my/shop/catagory/women
+/v1/admin 3 -
+/v1/ladmin/login 1 -
+/adm 1 -
+/admin/register 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+175.144.144.23 136 353 21194284 20201109121158 20201109115441 /login
+202.188.163.101 23 84 8193890 20201109085502
+122.254.85.173 22 69 7288462 20201109120705 20201109120129 /order
+113.199.155.163 16 70 4726893 20201105164035
+122.254.83.165 13 47 3814006 20201108121603
+113.199.136.65 11 20 1039542 20201108181211
+113.210.57.233 9 23 560892 20201102101354
+115.164.188.8 7 58 3843465 20201108144215
+183.171.185.105 4 4 11048 20201109085715
+60.51.56.82 4 4 274046 20201103132541
+115.164.176.162 3 51 3442404 20201103010854
+113.199.177.200 3 3 268500 20201106150536
+183.171.65.87 2 12 4044143 20201109080937
+113.199.181.148 2 8 642979 20201107172140
+45.139.188.131 1 1 33879 20201106055157
+173.249.22.173 1 3 149911 20201101182631
+113.210.204.2 1 1 137023 20201101072232
+64.246.161.30 1 1 1709 20201104191952
+183.171.75.187 1 1 3920 20201109085638
+183.171.185.127 1 1 3920 20201109081028
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20201101 2 4 286934 2
+20201102 9 23 560892 1
+20201103 7 55 3716450 2
+20201104 1 1 1709 1
+20201105 26 128 8311339 2
+20201106 4 4 302379 2
+20201107 2 8 642979 1
+20201108 31 125 8697013 3
+20201109 179 466 37155221 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30s-2mn 4
+30mn-1h 1
+2mn-5mn 3
+0s-30s 8
+15mn-30mn 1
+5mn-15mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 32
+/admin/login 41 130244 6 5
+/v1 39 4730415 7 3
+/login 32 783335 0 0
+/ 29 38551 9 3
+/cart 24 671353 0 0
+/site/assets/fonts/Pe-icon-7-strokebb1d.woff 10 585560 0 0
+/checkout 9 401057 0 1
+/site/assets/fonts/fontawesome-webfont3e6e.woff2 9 694440 0 1
+/order 8 235836 0 1
+/shop/testing-product1111 7 269255 0 0
+/shops/product/new 6 266645 0 1
+/admin/assets/vendor_components/Ionicons/fonts/ionicons28b5.ttf 4 754032 0 1
+/home 4 13171 0 0
+/admin/product/manage 4 154883 0 1
+/shop/catagory/kids 4 147993 0 0
+/cpanel 3 101637 1 2
+/admin/dashboard 3 134280 0 0
+/shop/catagory/women 3 112083 0 0
+/shop/knit-like6 3 229437 0 0
+/shop/catagory/men 2 126233 0 0
+/shop/red-t-shirt 2 94986 0 0
+/admin/assets/vendor_components/font-awesome/fonts/fontawesome-webfont3e6e.woff2 2 154320 0 0
+/shops/product/featured 2 98454 0 1
+/shop/knit-like1 2 159331 0 0
+/shops/product/collection 2 95184 0 0
+/admin/product/size-photo/manage/1 1 31644 0 0
+/shop/testing-colth 1 72921 0 1
+/shop/knit-like4 1 76890 0 0
+/admin/catagory/manage 1 30756 0 0
+/admin/slider/manage 1 30812 0 0
+/shop/collectoon-colth 1 47515 0 0
+/admin/shipping/manage 1 32115 0 0
+END_SIDER
